@@ -26,7 +26,7 @@ I have a passion for **Python**, **data science**, and **finance**. I enjoy buil
 | [🎬 ReelSense](https://github.com/RichardM0/ReelSense) | Movie discovery and sentiment analysis tool | Python |
 | [🖼️ RecolourImage](https://github.com/RichardM0/RecolourImage) | Image recolouring utility | Python |
 | [🔤 Jumbler](https://github.com/RichardM0/Jumbler) | Word scramble game | Python |
-| [🌐 Portfolio Site](https://github.com/RichardM0/richardm0.github.io) | Personal portfolio website | HTML, CSS, JS |
+| [🌐 Portfolio Site](https://richardmeng.me) | Personal portfolio website | HTML, CSS, JS |
 
 
 ---
@@ -35,3 +35,4 @@ I have a passion for **Python**, **data science**, and **finance**. I enjoy buil
 
 - 🌐 [Portfolio](https://richardm0.github.io)
 - 💼 [GitHub](https://github.com/RichardM0)
+- ℹ️ [LinkedIn](https://linkedin.com/in/richard-meng-b25b4734b/)
