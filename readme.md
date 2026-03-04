@@ -1,6 +1,8 @@
 # Hi there, I'm Richard 👋
 
-I'm a first year student at Waterloo, majoring in Computer Science and Finance with a passion for **Python**, **data science**, and **finance**. I enjoy building tools that turn data into actionable insights — from robo-advisors and stock assistants to image processing utilities.
+I'm a **first year** student at **Waterloo**, majoring in **Computer Science** and **Finance** (CFM)
+
+I have a passion for **Python**, **data science**, and **finance**. I enjoy building tools that turn data into actionable insights from robo-advisors and stock assistants to image processing utilities.
 
 ---
 
