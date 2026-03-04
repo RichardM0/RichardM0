@@ -21,7 +21,7 @@ I have a passion for **Python**, **data science**, and **finance**. I enjoy buil
 | Project | Description | Tech |
 |---------|-------------|------|
 | [🤖 Robo-Advisor](https://github.com/RichardM0/Robo-Advisor) | Automated investment portfolio analyser using Modern Portfolio Theory | Python, Jupyter |
-| [🌐 RouteVision](https://github.com/RichardM0/cxc-2026) | NFL Computer Vision Clip Analyzer | Python, FastAPI, React |
+| [🏈 RouteVision](https://github.com/RichardM0/cxc-26) | NFL Computer Vision Clip Analyzer | Python, FastAPI, React |
 | [📈 Stock Assistant](https://github.com/RichardM0/stock-assistant) | Web app for stock analysis powered by AI | Python, Flask |
 | [🎬 ReelSense](https://github.com/RichardM0/ReelSense) | Movie discovery and sentiment analysis tool | Python |
 | [🖼️ RecolourImage](https://github.com/RichardM0/RecolourImage) | Image recolouring utility | Python |
