@@ -24,8 +24,8 @@ I have a passion for **Python**, **data science**, and **finance**. I enjoy buil
 | [🏈 RouteVision](https://github.com/RichardM0/cxc-26) | NFL Computer Vision Clip Analyzer | Python, FastAPI, React |
 | [📈 Stock Assistant](https://github.com/RichardM0/stock-assistant) | Web app for stock analysis powered by AI | Python, Flask |
 | [🎬 ReelSense](https://github.com/RichardM0/ReelSense) | Movie discovery and sentiment analysis tool | Python |
-| [🖼️ RecolourImage](https://github.com/RichardM0/RecolourImage) | Image recolouring utility | Python |
-| [🔤 Jumbler](https://github.com/RichardM0/Jumbler) | Word scramble game | Python |
+| [🖼️ RecolourImage](https://github.com/RichardM0/RecolourImage) | Image recolouring utility | Java |
+| [🔤 Jumbler](https://github.com/RichardM0/Jumbler) | Word scramble game | Java |
 | [🌐 Portfolio Site](https://richardmeng.me) | Personal portfolio website | HTML, CSS, JS |
 
 
